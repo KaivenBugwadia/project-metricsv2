@@ -1,0 +1,550 @@
+{
+    "payload": {
+        "allShortcutsEnabled": false,
+        "path": "/",
+        "repo": {
+            "id": 169108858,
+            "defaultBranch": "main",
+            "name": "kyverno",
+            "ownerLogin": "kyverno",
+            "currentUserCanPush": false,
+            "isFork": false,
+            "isEmpty": false,
+            "createdAt": "2019-02-04T16:25:48.000Z",
+            "ownerAvatar": "https://avatars.githubusercontent.com/u/68448710?v=4",
+            "public": true,
+            "private": false,
+            "isOrgOwned": true
+        },
+        "currentUser": null,
+        "refInfo": {
+            "name": "main",
+            "listCacheKey": "v0:1706513882.0",
+            "canEdit": false,
+            "refType": "branch",
+            "currentOid": "184166117b21667ade1588655081273581370014"
+        },
+        "tree": {
+            "items": [
+                {
+                    "name": ".devcontainer",
+                    "path": ".devcontainer",
+                    "contentType": "directory"
+                },
+                {
+                    "name": ".github",
+                    "path": ".github",
+                    "contentType": "directory"
+                },
+                {
+                    "name": ".vscode",
+                    "path": ".vscode",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "api",
+                    "path": "api",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "charts",
+                    "path": "charts",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "cmd",
+                    "path": "cmd",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "config",
+                    "path": "config",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "data",
+                    "path": "data",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "docs",
+                    "path": "docs",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "ext",
+                    "path": "ext",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "hack",
+                    "path": "hack",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "img",
+                    "path": "img",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "litmuschaos",
+                    "path": "litmuschaos",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "pkg",
+                    "path": "pkg",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "scripts",
+                    "path": "scripts",
+                    "contentType": "directory"
+                },
+                {
+                    "name": "test",
+                    "path": "test",
+                    "contentType": "directory"
+                },
+                {
+                    "name": ".codeclimate.yml",
+                    "path": ".codeclimate.yml",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".directory",
+                    "path": ".directory",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".gitignore",
+                    "path": ".gitignore",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".golangci.yml",
+                    "path": ".golangci.yml",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".goreleaser.yml",
+                    "path": ".goreleaser.yml",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".ko.yaml",
+                    "path": ".ko.yaml",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".krew.yaml",
+                    "path": ".krew.yaml",
+                    "contentType": "file"
+                },
+                {
+                    "name": ".nancy-ignore",
+                    "path": ".nancy-ignore",
+                    "contentType": "file"
+                },
+                {
+                    "name": "ADOPTERS.md",
+                    "path": "ADOPTERS.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "CHANGELOG.md",
+                    "path": "CHANGELOG.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "CODEOWNERS",
+                    "path": "CODEOWNERS",
+                    "contentType": "file"
+                },
+                {
+                    "name": "CODE_OF_CONDUCT.md",
+                    "path": "CODE_OF_CONDUCT.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "CONTRIBUTING.md",
+                    "path": "CONTRIBUTING.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "CONTRIBUTORS.md",
+                    "path": "CONTRIBUTORS.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "DEVELOPMENT.md",
+                    "path": "DEVELOPMENT.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "GOVERNANCE.md",
+                    "path": "GOVERNANCE.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "LICENSE",
+                    "path": "LICENSE",
+                    "contentType": "file"
+                },
+                {
+                    "name": "MAINTAINERS.md",
+                    "path": "MAINTAINERS.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "Makefile",
+                    "path": "Makefile",
+                    "contentType": "file"
+                },
+                {
+                    "name": "OWNERS.md",
+                    "path": "OWNERS.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "README.md",
+                    "path": "README.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "ROADMAP.md",
+                    "path": "ROADMAP.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "SECURITY-INSIGHTS.yml",
+                    "path": "SECURITY-INSIGHTS.yml",
+                    "contentType": "file"
+                },
+                {
+                    "name": "SECURITY.md",
+                    "path": "SECURITY.md",
+                    "contentType": "file"
+                },
+                {
+                    "name": "go.mod",
+                    "path": "go.mod",
+                    "contentType": "file"
+                },
+                {
+                    "name": "go.sum",
+                    "path": "go.sum",
+                    "contentType": "file"
+                },
+                {
+                    "name": "renovate.json",
+                    "path": "renovate.json",
+                    "contentType": "file"
+                },
+                {
+                    "name": "sonar-project.properties",
+                    "path": "sonar-project.properties",
+                    "contentType": "file"
+                }
+            ],
+            "templateDirectorySuggestionUrl": null,
+            "readme": {
+                "displayName": "README.md",
+                "richText": "<article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><h1 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-kyverno-\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#kyverno-\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>Kyverno <a href=\"https://twitter.com/intent/tweet?text=Cloud%20Native%20Policy%20Management.%20No%20new%20language%20required%21&amp;url=https://github.com/kyverno/kyverno/&amp;hashtags=kubernetes,devops\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/a00d957c85627f2862ae61b59289e25f875e9ae40a716efdf5c3e032d6b8f863/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c2f687474702f736869656c64732e696f2e7376673f7374796c653d736f6369616c\" alt=\"Tweet\" data-canonical-src=\"https://img.shields.io/twitter/url/http/shields.io.svg?style=social\" style=\"max-width: 100%;\"></a></h1>\n<p dir=\"auto\"><strong>Cloud Native Policy Management ?</strong></p>\n<p dir=\"auto\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/kyverno/kyverno/workflows/build/badge.svg\"><img src=\"https://github.com/kyverno/kyverno/workflows/build/badge.svg\" alt=\"build\" style=\"max-width: 100%;\"></a>\n<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://github.com/kyverno/kyverno/workflows/releaser/badge.svg\"><img src=\"https://github.com/kyverno/kyverno/workflows/releaser/badge.svg\" alt=\"releaser\" style=\"max-width: 100%;\"></a>\n<a href=\"https://goreportcard.com/report/github.com/kyverno/kyverno\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/25dbb47827cb9b0774cc4bf21d538a0852dd58d30656ba139bbbca47f43bb7e1/68747470733a2f2f676f7265706f7274636172642e636f6d2f62616467652f6769746875622e636f6d2f6b797665726e6f2f6b797665726e6f\" alt=\"Go Report Card\" data-canonical-src=\"https://goreportcard.com/badge/github.com/kyverno/kyverno\" style=\"max-width: 100%;\"></a>\n<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://camo.githubusercontent.com/df345f45f2cef6a4c0a02cec80b78b187c9bfb0fea58c35820effdad4ed9674f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b797665726e6f2f6b797665726e6f3f636f6c6f723d626c7565\"><img src=\"https://camo.githubusercontent.com/df345f45f2cef6a4c0a02cec80b78b187c9bfb0fea58c35820effdad4ed9674f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b797665726e6f2f6b797665726e6f3f636f6c6f723d626c7565\" alt=\"License: Apache-2.0\" data-canonical-src=\"https://img.shields.io/github/license/kyverno/kyverno?color=blue\" style=\"max-width: 100%;\"></a>\n<a href=\"https://github.com/kyverno/kyverno/stargazers\"><img src=\"https://camo.githubusercontent.com/cc15581ea9bcb17e9e9011c9bad751993a1939f405adb3a0c91311c89037a3d1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6b797665726e6f2f6b797665726e6f\" alt=\"GitHub Repo stars\" data-canonical-src=\"https://img.shields.io/github/stars/kyverno/kyverno\" style=\"max-width: 100%;\"></a>\n<a href=\"https://bestpractices.coreinfrastructure.org/projects/5327\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/f80e6a758438678009877b2d977d60ac923e08a3c7640b771a835b72fea0361e/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f353332372f6261646765\" alt=\"CII Best Practices\" data-canonical-src=\"https://bestpractices.coreinfrastructure.org/projects/5327/badge\" style=\"max-width: 100%;\"></a>\n<a href=\"https://api.securityscorecards.dev/projects/github.com/kyverno/kyverno\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/64534686c499509f07f9ee3e564b08d4953e855bb08c82a5a818a7f0c1f2bff3/68747470733a2f2f6170692e736563757269747973636f726563617264732e6465762f70726f6a656374732f6769746875622e636f6d2f6b797665726e6f2f6b797665726e6f2f6261646765\" alt=\"OpenSSF Scorecard\" data-canonical-src=\"https://api.securityscorecards.dev/projects/github.com/kyverno/kyverno/badge\" style=\"max-width: 100%;\"></a>\n<a href=\"https://app.codecov.io/gh/kyverno/kyverno/branch/main\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/6acc72db0a0938ccbc9af319e993699c68976c14b1cd124e8d04c514f254f98e/68747470733a2f2f636f6465636f762e696f2f67682f6b797665726e6f2f6b797665726e6f2f6272616e63682f6d61696e2f67726170682f62616467652e737667\" alt=\"codecov\" data-canonical-src=\"https://codecov.io/gh/kyverno/kyverno/branch/main/graph/badge.svg\" style=\"max-width: 100%;\"></a>\n<a href=\"https://artifacthub.io/packages/search?repo=kyverno\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/c5da53c52da55569b8b8d061946249b219c9cfe38f04fe47d2274722c484c56c/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f61727469666163746875622e696f2f62616467652f7265706f7369746f72792f6b797665726e6f\" alt=\"Artifact HUB\" data-canonical-src=\"https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/kyverno\" style=\"max-width: 100%;\"></a>\n<a href=\"https://app.fossa.com/projects/git%2Bgithub.com%2Fkyverno%2Fkyverno?ref=badge_shield\" rel=\"nofollow\"><img src=\"https://camo.githubusercontent.com/32a7bf925c565b051baa33c7a2b1d2ba6eed799b8c32b719bdd45cf245c674d5/68747470733a2f2f6170702e666f7373612e636f6d2f6170692f70726f6a656374732f6769742532426769746875622e636f6d2532466b797665726e6f2532466b797665726e6f2e7376673f747970653d736869656c64\" alt=\"FOSSA Status\" data-canonical-src=\"https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkyverno%2Fkyverno.svg?type=shield\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\"><a href=\"https://kyverno.io\" rel=\"nofollow\"><img src=\"/kyverno/kyverno/raw/main/img/Kyverno_Horizontal.png\" alt=\"logo\" style=\"max-width: 100%;\"></a></p>\n<p dir=\"auto\">\nKyverno is a policy engine designed for Kubernetes platform engineering teams. It enables security, automation, compliance, and governance using policy-as-code. Kyverno can validate, mutate, generate, and cleanup configurations using Kubernetes admission controls, background scans, and source code respository scans. Kyverno policies can be managed as Kubernetes resources and do not require learning a new language. Kyverno is designed to work nicely with tools you already use like kubectl, kustomize, and Git.\n</p>\n<p dir=\"auto\"><a href=\"https://opensourcesecurityindex.io/\" rel=\"nofollow\"> <img style=\"width: 282px; height: 56px; max-width: 100%;\" src=\"https://camo.githubusercontent.com/659c1531debd8d3a388ee8b1b1863f7168390c918e9c9a031568614ac5156d26/68747470733a2f2f6f70656e736f757263657365637572697479696e6465782e696f2f62616467652e737667\" alt=\"Open Source Security Index - Fastest Growing Open Source Security Projects\" width=\"282\" height=\"56\" data-canonical-src=\"https://opensourcesecurityindex.io/badge.svg\">\n</a></p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content--documentation\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#-documentation\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>? Documentation</h2>\n<p dir=\"auto\">Kyverno installation and reference documents are available at kyverno.io.</p>\n<p dir=\"auto\">? <strong><a href=\"https://kyverno.io/docs/introduction/#quick-start\" rel=\"nofollow\">Quick Start</a></strong></p>\n<p dir=\"auto\">? <strong><a href=\"https://kyverno.io/docs/installation/\" rel=\"nofollow\">Installation</a></strong></p>\n<p dir=\"auto\">? <strong><a href=\"https://kyverno.io/policies/\" rel=\"nofollow\">Sample Policies</a></strong></p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-?-getting-help\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#?-getting-help\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>???? Getting Help</h2>\n<p dir=\"auto\">We are here to help!</p>\n<p dir=\"auto\">? For feature requests and bugs, file an <a href=\"https://github.com/kyverno/kyverno/issues\">issue</a>.</p>\n<p dir=\"auto\">? For discussions or questions, join the <a href=\"https://slack.k8s.io/#kyverno\" rel=\"nofollow\">Kyverno Slack channel</a>.</p>\n<p dir=\"auto\">? For community meeting access, join the <a href=\"https://groups.google.com/g/kyverno\" rel=\"nofollow\">mailing list</a>.</p>\n<p dir=\"auto\">? To get updates ?? <a href=\"https://github.com/kyverno/kyverno/stargazers\">star this repository</a>.</p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content--contributing\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#-contributing\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>? Contributing</h2>\n<p dir=\"auto\">Thanks for your interest in contributing to Kyverno! Here are some steps to help get you started:</p>\n<p dir=\"auto\">? Read and agree to the <a href=\"/kyverno/kyverno/blob/main/CONTRIBUTING.md\">Contribution Guidelines</a>.</p>\n<p dir=\"auto\">? Browse through the <a href=\"https://github.com/kyverno/kyverno/discussions\">GitHub discussions</a>.</p>\n<p dir=\"auto\">? Read Kyverno design and development details on the <a href=\"https://github.com/kyverno/kyverno/wiki\">GitHub Wiki</a>.</p>\n<p dir=\"auto\">? Check out the <a href=\"https://github.com/kyverno/kyverno/labels/good%20first%20issue\">good first issues</a> list. Add a comment with <code>/assign</code> to request assignment of the issue.</p>\n<p dir=\"auto\">? Check out the Kyverno <a href=\"https://kyverno.io/community/\" rel=\"nofollow\">Community page</a> for other ways to get involved.</p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-software-bill-of-materials\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#software-bill-of-materials\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>Software Bill of Materials</h2>\n<p dir=\"auto\">All Kyverno images include a Software Bill of Materials (SBOM) in <a href=\"https://cyclonedx.org/\" rel=\"nofollow\">CycloneDX</a> JSON format. SBOMs for Kyverno images are stored in a separate repository at <code>ghcr.io/kyverno/sbom</code>. More information on this is available at <a href=\"https://kyverno.io/docs/security/#fetching-the-sbom-for-kyverno\" rel=\"nofollow\">Fetching the SBOM for Kyverno</a>.</p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-contributors\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#contributors\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>Contributors</h2>\n<p dir=\"auto\">Kyverno is built and maintained by our growing community of contributors!</p>\n<a href=\"https://github.com/kyverno/kyverno/graphs/contributors\">\n  <img src=\"https://camo.githubusercontent.com/0badf4826c07a875790bf1ae826dc0036ecdcfc54ef1f167e80c5eee54a09e27/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6b797665726e6f2f6b797665726e6f\" data-canonical-src=\"https://contrib.rocks/image?repo=kyverno/kyverno\" style=\"max-width: 100%;\">\n</a>\n<p dir=\"auto\">Made with <a href=\"https://contrib.rocks\" rel=\"nofollow\">contributors-img</a>.</p>\n<h2 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-license\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#license\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>License</h2>\n<p dir=\"auto\">Copyright 2023, the Kyverno project. All rights reserved. Kyverno is licensed under the <a href=\"/kyverno/kyverno/blob/main/LICENSE\">Apache License 2.0</a>.</p>\n<p dir=\"auto\">Kyverno is a <a href=\"https://www.cncf.io/projects/\" rel=\"nofollow\">Cloud Native Computing Foundation (CNCF) Incubating project</a> and was contributed by <a href=\"https://nirmata.com/?utm_source=github&amp;utm_medium=repository\" rel=\"nofollow\">Nirmata</a>.</p>\n</article>",
+                "errorMessage": null,
+                "headerInfo": {
+                    "toc": [
+                        {
+                            "level": 1,
+                            "text": "Kyverno ",
+                            "anchor": "kyverno-",
+                            "htmlText": "Kyverno "
+                        },
+                        {
+                            "level": 2,
+                            "text": "? Documentation",
+                            "anchor": "-documentation",
+                            "htmlText": "? Documentation"
+                        },
+                        {
+                            "level": 2,
+                            "text": "???? Getting Help",
+                            "anchor": "?-getting-help",
+                            "htmlText": "???? Getting Help"
+                        },
+                        {
+                            "level": 2,
+                            "text": "? Contributing",
+                            "anchor": "-contributing",
+                            "htmlText": "? Contributing"
+                        },
+                        {
+                            "level": 2,
+                            "text": "Software Bill of Materials",
+                            "anchor": "software-bill-of-materials",
+                            "htmlText": "Software Bill of Materials"
+                        },
+                        {
+                            "level": 2,
+                            "text": "Contributors",
+                            "anchor": "contributors",
+                            "htmlText": "Contributors"
+                        },
+                        {
+                            "level": 2,
+                            "text": "License",
+                            "anchor": "license",
+                            "htmlText": "License"
+                        }
+                    ],
+                    "siteNavLoginPath": "/login?return_to=https%3A%2F%2Fgithub.com%2Fkyverno%2Fkyverno"
+                }
+            },
+            "totalCount": 44,
+            "showBranchInfobar": false
+        },
+        "fileTree": {
+            "": {
+                "items": [
+                    {
+                        "name": ".devcontainer",
+                        "path": ".devcontainer",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": ".github",
+                        "path": ".github",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": ".vscode",
+                        "path": ".vscode",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "api",
+                        "path": "api",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "charts",
+                        "path": "charts",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "cmd",
+                        "path": "cmd",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "config",
+                        "path": "config",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "data",
+                        "path": "data",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "docs",
+                        "path": "docs",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "ext",
+                        "path": "ext",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "hack",
+                        "path": "hack",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "img",
+                        "path": "img",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "litmuschaos",
+                        "path": "litmuschaos",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "pkg",
+                        "path": "pkg",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "scripts",
+                        "path": "scripts",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": "test",
+                        "path": "test",
+                        "contentType": "directory"
+                    },
+                    {
+                        "name": ".codeclimate.yml",
+                        "path": ".codeclimate.yml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".directory",
+                        "path": ".directory",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".gitignore",
+                        "path": ".gitignore",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".golangci.yml",
+                        "path": ".golangci.yml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".goreleaser.yml",
+                        "path": ".goreleaser.yml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".ko.yaml",
+                        "path": ".ko.yaml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".krew.yaml",
+                        "path": ".krew.yaml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": ".nancy-ignore",
+                        "path": ".nancy-ignore",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "ADOPTERS.md",
+                        "path": "ADOPTERS.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "CHANGELOG.md",
+                        "path": "CHANGELOG.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "CODEOWNERS",
+                        "path": "CODEOWNERS",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "CODE_OF_CONDUCT.md",
+                        "path": "CODE_OF_CONDUCT.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "CONTRIBUTING.md",
+                        "path": "CONTRIBUTING.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "CONTRIBUTORS.md",
+                        "path": "CONTRIBUTORS.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "DEVELOPMENT.md",
+                        "path": "DEVELOPMENT.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "GOVERNANCE.md",
+                        "path": "GOVERNANCE.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "LICENSE",
+                        "path": "LICENSE",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "MAINTAINERS.md",
+                        "path": "MAINTAINERS.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "Makefile",
+                        "path": "Makefile",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "OWNERS.md",
+                        "path": "OWNERS.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "README.md",
+                        "path": "README.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "ROADMAP.md",
+                        "path": "ROADMAP.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "SECURITY-INSIGHTS.yml",
+                        "path": "SECURITY-INSIGHTS.yml",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "SECURITY.md",
+                        "path": "SECURITY.md",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "go.mod",
+                        "path": "go.mod",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "go.sum",
+                        "path": "go.sum",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "renovate.json",
+                        "path": "renovate.json",
+                        "contentType": "file"
+                    },
+                    {
+                        "name": "sonar-project.properties",
+                        "path": "sonar-project.properties",
+                        "contentType": "file"
+                    }
+                ],
+                "totalCount": 44
+            }
+        },
+        "fileTreeProcessingTime": 3.907377,
+        "foldersToFetch": [],
+        "treeExpanded": true,
+        "symbolsExpanded": false,
+        "csrf_tokens": {
+            "/kyverno/kyverno/branches": {
+                "post": "db-wyDmsgPHOOLOqpYpRYJw79FzishTford0ZSU8rk94z3AxnperUB-7BQpy3WbpBQl0bSQStCwxFwEag66v0Q"
+            },
+            "/kyverno/kyverno/branches/fetch_and_merge/main": {
+                "post": "dEGOuJEaOoFNBQmShYqjim2dZhYNCd3Wz7gzU_xgTkJYpk1RqlK1cJYfNBE38VTTt0b5-hBCQAnVxNeeut88Rw"
+            },
+            "/kyverno/kyverno/branches/fetch_and_merge/main?discard_changes=true": {
+                "post": "E3WnYh9kGueNchpbZos0FTxIvBV80BxzsYIUn-cmNQU_kmSLJCyVFlZoJ9jU8MNM5pMj-WGbgayr_vBSoZlHAA"
+            }
+        }
+    },
+    "title": "kyverno/ at main · kyverno/kyverno"
+}
